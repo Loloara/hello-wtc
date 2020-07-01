@@ -18,3 +18,13 @@ $ git checkout <branch>
 - Branch merge 방법
 $ git merge <commit>
 
+
+### Pull Request
+
+원본 저장소에서 fork, clone을 통해 작업한 내용을 원본 저장소에 반영해달라고 요청하는 것
+
+작업 순서
+1. fork 를 통해 원본 repository를 내 repository로 복사한다.
+2. clone을 하여 내 로컬 repository로 가져온다.
+3. 로컬에서 작업후 commit, push를 하여 작업내용을 업로드한다.
+4. pull request를 원본 repository에 보낸다.
