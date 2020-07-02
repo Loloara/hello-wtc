@@ -6,6 +6,7 @@
 - 로컬에 클론
 - git clone, add, commit, push, pull 명령에 대한 설명이 포함된 hello.md 생성
 - hello.md add, commit
+<br>
 **두번째 커밋**
 - hello.md 에 "좋은 커밋이란 무엇인가?" 에 대한 내용을 간단히 정리해서 추가
 - add, commit, push
